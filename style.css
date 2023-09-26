@@ -1,0 +1,16 @@
+#formulario {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+#formulario label {
+  margin: 10px;
+}
+button {
+  margin-top: 20px;
+}
+.error {
+  color: red;
+}
